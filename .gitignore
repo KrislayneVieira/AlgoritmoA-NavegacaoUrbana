@@ -146,12 +146,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Matplotlib/Graphics
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
 
 # Specific to this project
 # Keep the example map but ignore generated ones

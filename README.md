@@ -122,20 +122,7 @@ A distância euclidiana **nunca superestima** a distância real:
 
 ---
 
-## 🖼️ Visualização do Resultado
 
-### Mapa Gerado pelo Algoritmo A*
-
-![Mapa de Navegação Urbana](mapa_busca.png)
-
-*Visualização gráfica mostrando:*
-- 🟢 **Ponto de origem** (Casa)
-- 🔴 **Ponto de destino** (Parque)
-- 🟡 **Caminho ótimo** encontrado pelo A*
-- 🔵 **Outros locais** da cidade
-- **Números nas arestas**: distâncias euclidianas entre os pontos
-
----
 
 **Desenvolvido por**: Krislayne Vieira, Sara Ferreira e Pedro Gabriel | **Data**: Novembro 2025  
 **Objetivo**: Demonstração didática do algoritmo A* aplicado à navegação urbana

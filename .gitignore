@@ -152,7 +152,6 @@ Desktop.ini
 *.jpeg
 *.gif
 *.svg
-!mapa_busca.png
 
 # Specific to this project
 # Keep the example map but ignore generated ones

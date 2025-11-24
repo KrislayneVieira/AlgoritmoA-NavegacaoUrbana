@@ -126,7 +126,7 @@ A distância euclidiana **nunca superestima** a distância real:
 
 ### Mapa Gerado pelo Algoritmo A*
 
-![Mapa de Navegação Urbana](mapa_busca_2.png)
+![Mapa de Navegação Urbana](mapa_busca.png)
 
 *Visualização gráfica mostrando:*
 - 🟢 **Ponto de origem** (Casa)
